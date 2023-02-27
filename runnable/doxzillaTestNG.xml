@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <listeners></listeners>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="env" value="UAT"/>
+    <test thread-count="1" name="Default Test" parallel="classes">
+        <classes>
+            <class name="doxzillaTest.PageTitleTest"></class>
+            <class name="doxzillaTest.OnboardingTest"></class>
+            <class name="doxzillaTest.SignupTest"></class>
+            <class name="doxzillaTest.ForgotPasswordTest"></class>
+            <class name="doxzillaTest.LoginTest"></class>
+            <class name="doxzillaTest.SearchTest"></class>
+            <class name="doxzillaTest.MyListTest"></class>
+            <class name="doxzillaTest.MyWatchHistoryTest"></class>
+            <class name="doxzillaTest.AccountSettingTest"></class>
+            <class name="doxzillaTest.AccountTrackingTest"></class>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

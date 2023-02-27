@@ -1,0 +1,47 @@
+{
+  "DoxzillaBaseUrl": {
+    "QA": "https://web-qa.doxzilla.enveu.com/en/",
+    "UAT": "https://enveu-saas:husai5We@web-uat.doxzilla.com/en/",
+    "PROD": "https://app.doxzilla.com/en/"
+  },
+  "VipaBaseUrl": {
+    "QA": "https://vipa-qa.enveu.com/",
+    "UAT": "https://vipa-uat.enveu.com/en/",
+    "PROD": "https://vipa.me/"
+  },
+  "WatchoBaseUrl": {
+    "QA": "https://web-qa.watcho.com/",
+    "UAT": "https://web-sit.watcho.com/",
+    "PROD": "https://www.watcho.com/"
+  },
+  "IberaliaGoBaseUrl": {
+    "QA": "https://web-qa.iberaliago.enveu.com/en/",
+    "UAT": "https://enveu-saas:husai5We@app-uat.iberaliago.com/es/vod",
+    "PROD": "https://app.iberaliago.com/"
+  },
+  "PanteaoBaseUrl": {
+    "QA": "https://panteao-qa.enveu.com/en/",
+    "PROD": "https://www.makeready.tv/en/"
+  },
+  "TrackingUrl": {
+    "QA": "https://web-qa.doxzilla.enveu.com/en/track-account-deletion-request",
+    "UAT": "https://enveu-saas:husai5We@web-uat.doxzilla.com/en/track-account-deletion-request",
+    "PROD": "https://enveu-saas:husai5We@web-uat.doxzilla.com/en/track-account-deletion-request"
+  },
+  "Login": {
+    "Email": "sourabh.kedar@enveu.com",
+    "Pass": "Admin@123"
+  },
+  "Login1": {
+    "Email": "sanjay@enveu.com",
+    "Pass": "Test@123"
+  },
+  "Acc": {
+    "NewPass": "Admin@12345",
+    "CnfPass": "Admin@12345"
+  },
+  "Search": {
+    "Series": "Nature’s Greatest Secret",
+    "Movie": "The Secret Life of Ice"
+  }
+}

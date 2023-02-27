@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <listeners></listeners>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="env" value="UAT"/>
+    <test thread-count="1" name="Default Test" parallel="classes">
+        <classes>
+            <class name="vipaTest.LoginTest"></class>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
